@@ -1,4 +1,4 @@
-# ✔️ Curso-Machine-Learning-IESB
+# Curso-Machine-Learning-IESB
 <p> Repositório para o curso de Machine Learning em Python ministrado no IESB. </p>
 O curso teve um total de 30 horas e nele curso foi apresentado os primeiros passos da sintax da linguagem e diversos algoritimos de aprendizado de máquina.
 
