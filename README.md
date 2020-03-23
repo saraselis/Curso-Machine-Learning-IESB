@@ -13,7 +13,7 @@ O curso teve um total de 30 horas e nele curso foi apresentado os primeiros pass
 - [X] Random Forest
 - [X] Gradient Boosting
 - [X] Regressões (Linear e logística)
-- [X] K-Mens
+- [X] K-Means
 - [X] Otimização de parâmetros e validação
 - [X] Outlier
 - [X] NLP
